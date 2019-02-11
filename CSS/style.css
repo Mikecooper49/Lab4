@@ -12,6 +12,9 @@ body{
 nav{
     display: inline-block;
 }
+nav li {
+    float:left;
+}
 
 nav>ul {
     list-style-type: none;
