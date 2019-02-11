@@ -27,13 +27,13 @@ nav>ul {
     padding: 0;
     overflow: hidden;
     border-color: black;
-    border-width: 1px;
+    border-width: 4px;
 }
 
 nav>ul>li {
     float:left;
     border-color: black;
-    border-width: 1px;
+    border-width: 4px;
 }
 
 nav>ul>li a{
@@ -43,7 +43,7 @@ nav>ul>li a{
     padding: 10px 10px;
     text-decoration: none;
     border-color: black;
-    border-width: 1px;
+    border-width: 4px;
 
 }
 
