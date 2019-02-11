@@ -16,7 +16,7 @@ nav>ul {
     overflow: hidden;
 }
 
-nav>ul>li{
+nav>ul>li {
     float:center;
 }
 
@@ -31,4 +31,8 @@ nav>ul>li a{
 
 li a:hover {
     color:#363636;
+}
+
+footer{
+    float:center;
 }
