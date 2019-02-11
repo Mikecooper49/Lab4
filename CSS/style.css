@@ -17,7 +17,7 @@ nav>ul {
 }
 
 nav>ul>li {
-    float:center;
+    float:left;
 }
 
 nav>ul>li a{
@@ -34,5 +34,5 @@ li a:hover {
 }
 
 footer{
-    float:center;
+
 }
