@@ -60,6 +60,13 @@ li a:hover {
     flex: 33.33%;
     padding: 15px;
 }
+label{
+    text-align: left;
+}
+
+input{
+    text-align: end;
+}
 
 footer{
     text-align: center;
